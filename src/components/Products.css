@@ -1,0 +1,28 @@
+.card {
+    width: 250px;
+}
+
+.card .card-img-top {
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
+    text-align: center;
+}
+
+.products {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.free-shipping {
+    width: 18px;
+}
+
+.btn.btn-primary.add-cart {
+    visibility: hidden;
+}
+
+.card:hover .btn.btn-primary.add-cart {
+    visibility: initial;
+}

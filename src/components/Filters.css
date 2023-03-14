@@ -1,0 +1,12 @@
+.card-body {
+    text-align: center;
+}
+
+.form-check-reverse.form-check-justified {
+    text-align: left;
+    font-weight: bold;
+}
+
+.form-container {
+    gap: 10px;
+}

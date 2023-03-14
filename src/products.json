@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Keyboard redragon",
+        "brand": "redragon",
+        "originalPrice": 530,
+        "price": 480,
+        "discountPercentage": 9,
+        "description": "Loren ipsum",
+        "imageSrc": "https://mlstaticquic-a.akamaihd.net/teclado-mecanico-gamer-redragon-kumara-rgb-espanol-D_NQ_NP_766909-MLU31246465395_062019-F.jpg",
+        "freeShipping": false,
+        "condition": "Semi",
+        "category": "Teclado"
+    },
+    {
+        "name": "Keyboard redragon",
+        "brand": "redragon",
+        "originalPrice": 480,
+        "price": 480,
+        "discountPercentage": 0,
+        "description": "Loren ipsum",
+        "imageSrc": "https://mlstaticquic-a.akamaihd.net/teclado-mecanico-gamer-redragon-kumara-rgb-espanol-D_NQ_NP_766909-MLU31246465395_062019-F.jpg",
+        "freeShipping": false,
+        "condition": "Semi",
+        "category": "Teclado"
+    },
+    {
+        "name": "Keyboard redragon",
+        "brand": "redragon",
+        "originalPrice": 530,
+        "price": 530,
+        "discountPercentage": 0,
+        "description": "Loren ipsum",
+        "imageSrc": "https://mlstaticquic-a.akamaihd.net/teclado-mecanico-gamer-redragon-kumara-rgb-espanol-D_NQ_NP_766909-MLU31246465395_062019-F.jpg",
+        "freeShipping": true,
+        "condition": "New",
+        "category": "Teclado"
+    },
+    {
+        "name": "Headset Gamer Cloud Stinger core",
+        "brand": "Corsair",
+        "originalPrice": 279.99,
+        "price": 279.99,
+        "discountPercentage": 0,
+        "description": "Loren ipsum",
+        "imageSrc": "https://th.bing.com/th/id/R.489b4e593457cf2e0582b645f497fdb2?rik=JIFX9Mw7Fh3seQ&pid=ImgRaw&r=0",
+        "freeShipping": true,
+        "condition": "New",
+        "category": "Headset"
+    },
+    {
+        "name": "Headset Gamer Cloud Stinger core",
+        "brand": "Corsair",
+        "originalPrice": 279.99,
+        "price": 250,
+        "discountPercentage": 4,
+        "description": "Loren ipsum",
+        "imageSrc": "https://th.bing.com/th/id/R.489b4e593457cf2e0582b645f497fdb2?rik=JIFX9Mw7Fh3seQ&pid=ImgRaw&r=0",
+        "freeShipping": false,
+        "condition": "Semi",
+        "category": "Headset"
+    },
+    {
+        "name": "Headset Gamer Cloud Stinger core",
+        "brand": "Corsair",
+        "originalPrice": 279.99,
+        "price": 279.99,
+        "discountPercentage": 0,
+        "description": "Loren ipsum",
+        "imageSrc": "https://th.bing.com/th/id/R.489b4e593457cf2e0582b645f497fdb2?rik=JIFX9Mw7Fh3seQ&pid=ImgRaw&r=0",
+        "freeShipping": true,
+        "condition": "New",
+        "category": "Headset"
+    },
+    {
+        "name": "Stinger core pro max",
+        "brand": "Corsair",
+        "originalPrice": 279.99,
+        "price": 279.99,
+        "discountPercentage": 0,
+        "description": "Loren ipsum, Loren ipsumLoren ipsumLoren ipsumLoren ipsumLoren ipsumLoren ipsumLoren ipsumLoren ipsumLoren ipsumLoren ipsumLoren ipsum",
+        "imageSrc": "https://th.bing.com/th/id/R.489b4e593457cf2e0582b645f497fdb2?rik=JIFX9Mw7Fh3seQ&pid=ImgRaw&r=0",
+        "freeShipping": true,
+        "condition": "New",
+        "category": "Headset"
+    }
+]
